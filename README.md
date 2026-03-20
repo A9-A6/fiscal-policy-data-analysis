@@ -27,3 +27,6 @@ Python, Pandas, Matplotlib, CSV
 
 ### Budget Balance Analysis
 ![Budget](budget_balance_analysis.png)
+
+### Debt to GDP Analysis
+![Debt](Debt-to-GDP-Analysis.png)
