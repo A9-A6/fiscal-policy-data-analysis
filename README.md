@@ -24,3 +24,6 @@ Python, Pandas, Matplotlib, CSV
 
 ### Revenue vs Spending
 ![Revenue](image_revenue.png)
+
+### Budget Balance Analysis
+![Budget](budget_balance_analysis.png)
