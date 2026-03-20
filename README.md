@@ -29,7 +29,6 @@ Python, Pandas, Matplotlib, CSV
 ![Budget](budget_balance_analysis.png)
 
 ### Debt to GDP Analysis
-![Debt](Debt-to-GDP-Analysis.png)
+![Debt](Debt-to-GDP-Analysis.png) 
 
-### Sharp Revenue Spending Changes
-![Changes](Sharp-Revenue-Spending-Changes.png)
+
