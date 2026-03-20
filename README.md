@@ -31,6 +31,9 @@ Python, Pandas, Matplotlib, CSV
 ### Debt to GDP Analysis
 ![Debt](Debt-to-GDP-Analysis.png) 
 
+### Fiscal correlation analysis
+![Correlation](correlation-analysis.png)
+
 ### Sharp Revenue/Spending Changes
 ![Changes](revenue_changes.png)
 
