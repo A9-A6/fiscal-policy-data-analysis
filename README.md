@@ -19,3 +19,8 @@ Python, Pandas, Matplotlib, CSV
 2. Run:
    python main.py
 3. Choose options from the menu.
+
+## Screenshots
+
+### Revenue vs Spending
+![Revenue](image_revenue.png)
