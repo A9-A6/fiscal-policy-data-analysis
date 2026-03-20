@@ -30,3 +30,6 @@ Python, Pandas, Matplotlib, CSV
 
 ### Debt to GDP Analysis
 ![Debt](Debt-to-GDP-Analysis.png)
+
+### Sharp Revenue Spending Changes
+![Sharp revenue](Sharp-Revenue-Spending-Changes.png)
