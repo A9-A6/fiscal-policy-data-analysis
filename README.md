@@ -1,7 +1,10 @@
 # Fiscal Policy Data Analysis Tool
 This project is a menu-driven Python application for analyzing fiscal policy data (1970–2023) using Pandas and Matplotlib.
 
-## Why this project? This project was developed to analyze long-term fiscal trends and understand relationships between government revenue, spending, debt, and macroeconomic indicators. It helps identify fiscal risks, budget imbalances, and inflation-adjusted performance over time.
+Note: The dataset used in this project is a synthetic/example dataset created for educational purposes.
+
+## Why this project? 
+This project was developed to analyze long-term fiscal trends and understand relationships between government revenue, spending, debt, and macroeconomic indicators. It helps identify fiscal risks, budget imbalances, and inflation-adjusted performance over time.
 
 
 
